@@ -1,6 +1,6 @@
 # Book_Recommender_System
-Content-based book recommendation system
-The system consists of basic functions such as user registration, user login, uploading books, deleting books
+Content-based book recommendation system.
+The system consists of basic functions such as user registration, user login, uploading books, deleting books,etc.
 
 
 ## Tools used :
