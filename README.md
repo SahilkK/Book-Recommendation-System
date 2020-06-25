@@ -15,6 +15,5 @@ Flask
 2. CSV
 
 
-## Dataset used :
+## Dataset used : ( ##### LINK : http://www2.informatik.uni-freiburg.de/~cziegler/BX/ )
 Book-Crossing Dataset
-##### LINK : http://www2.informatik.uni-freiburg.de/~cziegler/BX/
