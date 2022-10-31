@@ -14,15 +14,18 @@ The system consists of basic functions such as user registration, user login, up
 </table>
 
 ### BACKEND
+<table>
 <ul>
   <li>Flask</li>
 </ul>
-<br/>
+</table>
+
 ### DATABASE
+<table>
 <ul>
   <li>SQLAlchemy</li>
 </ul>
-<br/>
+</table>
 
 ## Dataset used :
 Book-Crossing Dataset ( http://www2.informatik.uni-freiburg.de/~cziegler/BX/ )
