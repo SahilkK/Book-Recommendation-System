@@ -5,14 +5,15 @@ The system consists of basic functions such as user registration, user login, up
 
 ## Tools used :
 ### FRONTEND
-1. HTML5
-2. CSS3
-3. Bootstrap
+<ul>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>Bootstrap</li>
+</ul>
 ### BACKEND
-Flask
+1. Flask
 ### DATABASE
 1. SQLAlchemy
-2. CSV
 
 
 ## Dataset used :
