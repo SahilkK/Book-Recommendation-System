@@ -5,12 +5,14 @@ The system consists of basic functions such as user registration, user login, up
 
 ## Tools used :
 ### FRONTEND
+<table>
 <ul>
 <li>HTML5</li>
 <li>CSS3</li>
 <li>Bootstrap</li>
 </ul>
-<br/>
+</table>
+
 ### BACKEND
 <ul>
   <li>Flask</li>
