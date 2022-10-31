@@ -10,11 +10,17 @@ The system consists of basic functions such as user registration, user login, up
 <li>CSS3</li>
 <li>Bootstrap</li>
 </ul>
+<br/>
 ### BACKEND
-1. Flask
+<ul>
+  <li>Flask</li>
+</ul>
+<br/>
 ### DATABASE
-1. SQLAlchemy
-
+<ul>
+  <li>SQLAlchemy</li>
+</ul>
+<br/>
 
 ## Dataset used :
 Book-Crossing Dataset ( http://www2.informatik.uni-freiburg.de/~cziegler/BX/ )
